@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I spend more time naming variables than deciding what to build.
 -->
 
-Thanks for stopping by! Let’s turn some data into magic ✨
+Hey, you made it this far! Go on, explore my world of data wizardry and model madness. Spoiler: It’s cooler than it sounds. ✨
 
