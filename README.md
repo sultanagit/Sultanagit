@@ -2,11 +2,7 @@
 
 ## Hey there, I’m Talha Sultana 👋
 
-Welcome to my little corner of GitHub — where models sometimes behave, pipelines occasionally don’t break, and coffee is the true source of all magic (and bugs). ☕🤖
-<!--
-**sultanagit/Sultanagit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Welcome to my little corner of GitHub — where models sometimes behave, pipelines occasionally don’t break, and coffee is the true source of all magic (and bugs). ☕
 
 - 🔭 I’m currently building and fine-tuning machine learning models that aim to make life smarter (or at least my to-do list shorter).
 - 🌱 Deep into MLOps, learning how to make AI systems reliable and production-ready, one deployment at a time.
@@ -16,7 +12,6 @@ Here are some ideas to get you started:
 - 📫 Reach me at: talhasultana2003@gmail.com or by carrier pigeon (email preferred — pigeons can be slow).
 - 😄 Pronouns: She/Her, but also ‘That girl who talks to her computer like it’s a coworker’.
 - ⚡ Fun fact: I spend more time naming variables than deciding what to build.
--->
 
 Hey, you made it this far! Go on, explore my world of data wizardry and model madness. Spoiler: It’s cooler than it sounds. ✨
 
